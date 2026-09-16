@@ -7,7 +7,7 @@ let imagens=[
 // POSIÇÃO QUE VAI INICIAR AS IMAGENS
 let index=0;
 // TEMPO PARA TROCAR AS IMAGENS
-let tempo = 2000; // 2 segundos
+let tempo = 1000; // 1 segundos
 
 //FUNÇÃO DO SLIDESHOW
 function SlideShow(){

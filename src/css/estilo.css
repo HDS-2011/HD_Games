@@ -34,7 +34,7 @@ header{
 .logo:hover{
     color:var(--bg-dark);
     letter-spacing: 10px;
-    animation: acender 0.5s forwards;
+    animation: acender 10.5s forwards;
 }
 
 @keyframes acender {
@@ -82,8 +82,8 @@ nav ul li a:hover{
     align-items: center;
 }
 #imgBanner{
-    width: 600px;
-    height: 600px;
+    width: 500px;
+    height: 500px;
     border-radius: 50%;
 }
 
